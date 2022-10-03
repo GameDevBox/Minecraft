@@ -1,6 +1,5 @@
 # Minecraft in unity
 In this lecture, we will learn How to implement the logic behind the Minecraft game. And the last we gonna see how we can convert the Minecraft we created to NFT games And More ...
-Watch right now : https://www.youtube.com/watch?v=gkprZtZUj6E
 
 ✅ Golomoder Youtube: https://www.youtube.com/c/GolomOder
 
@@ -19,3 +18,5 @@ I do Unity Tutorials on just about every topic, Unity Tutorials for Beginners an
 Here we have many examples of game making , Art , NFT .
 
 --------------------------------------------------------------------
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=gkprZtZUj6E/0.jpg)](https://www.youtube.com/watch?v=gkprZtZUj6E)
