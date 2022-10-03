@@ -19,6 +19,4 @@ Here we have many examples of game making , Art , NFT .
 
 --------------------------------------------------------------------
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gkprZtZUj6E
-"><img src="http://img.youtube.com/vi/gkprZtZUj6E/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gkprZtZUj6E/0.jpg)](http://www.youtube.com/watch?v=gkprZtZUj6E)
