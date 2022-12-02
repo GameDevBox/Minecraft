@@ -15,8 +15,6 @@ here you will learn everything about Game Development in Unity using C#.
 
 I do Unity Tutorials on just about every topic, Unity Tutorials for Beginners and Unity Tutorials for Advanced users.
 
-Here we have many examples of game making , Art , NFT .
-
 --------------------------------------------------------------------
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gkprZtZUj6E/0.jpg)](http://www.youtube.com/watch?v=gkprZtZUj6E)
